@@ -1,7 +1,5 @@
 .ipynb_checkpoints
 cookies.txt
-data/*.zip
-data/
 *.jpg
 *.swp
 *.swo
